@@ -1,0 +1,1 @@
+alert("Just testing the middleware shortcut");
